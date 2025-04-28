@@ -1,5 +1,16 @@
 # firstGeoSoftware
 
 i need a line
-I want to learn Markdown
-The language is soo beautiful
+
+## Your name
+Zuberi David Luwena
+
+## Institution
+The University of Dodoma
+
+
+## Explain yourself
+I am here for learning, my ambition is to become the best in Geospatial Programming
+I want to learn packages and how to utilise opensources.
+
+### Thank You
