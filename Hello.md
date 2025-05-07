@@ -24,5 +24,6 @@ for visualizing and monitoring geospatial patterns
 - [ajira.go.tz](https://ajira.go.tz)
 
 
+![zootopia](https://i.imgur.com/ZBwwcjo.gif)
 
 
